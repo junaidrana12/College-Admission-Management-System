@@ -37,7 +37,8 @@ This system allows you to register students, apply for courses, generate merit l
 
 
 # ScreenShot
-<img width="1004" height="503" alt="image" src="https://github.com/user-attachments/assets/102efc56-e10e-4597-862a-79320a456d7a" />
+<img width="985" height="505" alt="screenshot 1" src="https://github.com/user-attachments/assets/7e7af7d8-7c3c-49be-b0a0-4a8548de912b" />
+
 <img width="1004" height="503" alt="Screenshot 2" src="https://github.com/user-attachments/assets/75db736a-1a61-49cd-b8cd-44bf7df51fbe" />
 <img width="990" height="499" alt="image" src="https://github.com/user-attachments/assets/e20abce3-ac20-4089-ab17-a435c7c8685a" />
 
